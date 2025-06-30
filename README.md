@@ -16,9 +16,9 @@ This simulation demonstrates how an **Intelligent Reflecting Surface (IRS)** can
 
 * The **secrecy capacity**, calculated as:
 
-  $$
-  C_s = [\log_2(1 + \text{SNR}_\text{Bob}) - \log_2(1 + \text{SNR}_\text{Eve})]^+
-  $$
+  
+  C_s = [log_2(1 + SNR_Bob) - log_2(1 +SNR_Eve)]^+
+  
 
 * Comparison of secrecy performance:
 
